@@ -42,7 +42,7 @@ This ia an analysis of GoBike Data to **highlight COVID-19 impact, to gain insig
 ## Acknowledgements:
 
 - This project was done as a part of Udacity's Advanced Data Analysis Nanodgree.
-- Data is from GoBike.
+- Data is from [GoBike](https://www.lyft.com/bikes/bay-wheels/system-data).
 
 ## Results:
 
